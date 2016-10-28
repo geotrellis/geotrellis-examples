@@ -1,0 +1,9 @@
+[{
+    "format": "multiband-geotiff",
+    "name": "example",
+    "cache": "NONE",
+    "backend": {
+        "type": "hadoop",
+        "path": "file:///tmp/rasters"
+    }
+}]
